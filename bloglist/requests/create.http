@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/blogs HTTP/1.1
+Content-Type: application/json
+Authorization:
+
+{
+    "title":"tttttttttttttttt",
+    "author":"Ilia",
+    "url":"someurl",
+    "likes":2,
+    "userID":"6343c6c4bf8f85f81f7dab92"
+}

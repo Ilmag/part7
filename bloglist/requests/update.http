@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/blogs/635fefe48ddab409fde9ca0e HTTP/1.1
+Content-Type: application/json
+
+{
+    "title":"October 21",
+    "author":"Ilia",
+    "url":"someurl",
+    "likes":1,
+    "user":"635233ad81bcb4ccec2c68d5"
+}
